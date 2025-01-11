@@ -1,10 +1,5 @@
-# ################################
-#                                #
-# MACRO BOT - UP XP FORTNITE AFK #
-#                                #
-# ################################
+# **MACRO BOT - UP XP FORTNITE AFK**                        
 
-# Criado por LEOW P.
 
 Cansado de ficar jogando para upar passe?
 Aqui está a solução fixa para seus problemas.
@@ -12,9 +7,10 @@ Simples e rapido, sem travamentos.. Sem risco de banimento, totalmente externo.
 Tudo que você precisa fazer é seguir os passos abaixo para configurar certinho e pronto.
 
 
-1- Instale o Python 3.13
-[Python 3.13](https://www.python.org/ftp/python/3.13.1/python-3.13.1-amd64.exe)
+1- Instale o [Python 3.13](https://www.python.org/ftp/python/3.13.1/python-3.13.1-amd64.exe)
+
 2- Após instalar, abre o CMD do windows
+
 3- Execute os comandos:
 
 pip install opencv-python
