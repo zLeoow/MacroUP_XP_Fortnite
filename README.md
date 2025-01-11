@@ -39,7 +39,7 @@ pip install pyautogui <br></i>
 
 ##
 
-### 📖 Creditos
+### 🧙‍♂️ Creditos
 
 • Feito de ❤️ por  <b> Leo Paulino <br>
 
