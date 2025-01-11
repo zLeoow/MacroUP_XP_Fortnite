@@ -1,42 +1,47 @@
-# **MACRO BOT - UP XP FORTNITE AFK**                        
+#
 
+### 💡 Sobre o projeto                     
 
-Cansado de ficar jogando para upar passe?
-Aqui está a solução fixa para seus problemas.
-Simples e rapido, sem travamentos.. Sem risco de banimento, totalmente externo.
-Tudo que você precisa fazer é seguir os passos abaixo para configurar certinho e pronto.
+Todo projeto foi feito para facilitar o UP de XP no jogo Fortnite.<br>
+Nada é injetado dentro do game, e a ferramenta não obtem vantagem em cima de nenhum outro Player.<br>
+Podem usar e usufruir da ferramenta, deixando a noite toda upando XP sem tomar aviso de AFK.<br>
+##
 
+### 📖 Linguagem utilizada  
 
-1- Instale o [Python 3.13](https://www.python.org/ftp/python/3.13.1/python-3.13.1-amd64.exe)
+• Python <br>
 
-2- Após instalar, abre o CMD do windows
+##
 
-3- Execute os comandos:
+### 📖 Video tutorial
 
-pip install opencv-python
-pip install numpy
-pip install pyautogui
+• Link do video no Youtube Aqui <br>
 
-4- Abra o jogo.
-5- Mude a resolução e entre no mapa.
-6- No proprio CMD, execute o comando 
+##
 
-python menu.py
+### 📁 Downloads/Dependencias/Comandos
 
-*Lembre-se de estar navegando no diretório certo, se não vai dar erro.
+##### Download:
+[Python 3.13.1](https://www.python.org/ftp/python/3.13.1/python-3.13.1-amd64.exe) <br>
+<br>
 
-7- Se você fez tudo certo, só entrar no lugar de up e deixar o mouse parado.
-8- O personagem ira pular e acelerar sozinho, sem risco de cair ou se ausentar.
+##### Dependencias:
+<i> pip install opencv-python <br>
+pip install numpy <br>
+pip install pyautogui <br></i>
+<br>
 
-Requisitos:
+##### Codigo do mapa & Resolução:
+<i>5035-1915-8020<br>
+1920x1080 </i>
 
-Python Versão: *3.13*
-Codigo do Mapa: *5035-1915-8020*
-Resolução: *1920x1080*
+##### Comando CMD:
+<i>Python menu.py <br></i>
 
-Comandos para executar no CMD:
+##
 
-pip install opencv-python
-pip install numpy
-pip install pyautogui
-python menu.py
+### 📖 Creditos
+
+• Feito de ❤️ por  <b> Leo Paulino <br>
+
+##
