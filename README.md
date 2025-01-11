@@ -14,8 +14,7 @@ Podem usar e usufruir da ferramenta, deixando a noite toda upando XP sem tomar a
 ##
 
 ### 📖 Video tutorial
-
-• Link do video no Youtube Aqui <br>
+[Link do video no Youtube aqui](https://www.youtube.com/watch?v=oqMoAY1bxO8) <br>
 
 ##
 
